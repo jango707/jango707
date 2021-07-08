@@ -1,5 +1,8 @@
 ### Hi there 👋
 ![counter](https://enxf8byei2cc1ln.m.pipedream.net)
+
+[![Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jango707)](https://github.com/jango/707)
+
 <!--
 **jango707/jango707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
